@@ -1,1 +1,1 @@
-#A simple linked list based stack implementation.
+#A simple linked list based stack implementation for integer values.
